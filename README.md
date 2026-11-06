@@ -95,6 +95,7 @@ This script is attached to the Christmas present.
 It updates the UI when the present is grabbed or released.
 
 The script listens for the selection and deselection events of XR Grab Interactable.
+
     private void OnEnable(){
     	interactable.selectEntered.AddListener(OnGrabbed);
     	interactable.selectExited.AddListener(OnReleased);
@@ -208,6 +209,7 @@ Este script está asociado al regalo de Navidad.
 Actualiza la interfaz cuando se agarra o se suelta el regalo.
 
 El script escucha los eventos de selección y deselección de XR Grab Interactable.
+
     private void OnEnable(){
     	interactable.selectEntered.AddListener(OnGrabbed);
     	interactable.selectExited.AddListener(OnReleased);
