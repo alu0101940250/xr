@@ -1,6 +1,6 @@
 # Unity VR Interaction Exercise
 
-![Unity VR Interaction Demo](xr.gif)
+![Unity VR Interaction Demo](xr3.gif)
 
 ## overview
 
@@ -113,7 +113,7 @@ If either of them happens they call the correct method and the UI shows
 
 # Ejercicio de interacción VR en Unity
 
-![Unity VR Interaction Demo](xr.gif)
+![Unity VR Interaction Demo](xr3.gif)
 
 ## descripción general
 
